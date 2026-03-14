@@ -1,0 +1,2 @@
+{"timestamp": "2026-03-13T23:05:05.329261", "metrics": {"technical": 8.7, "how-to": 9.1, "conceptual": 8.3, "out-of-scope": 4.8}, "pass_rate": 0.5, "total": 8, "passed": 4}
+{"timestamp": "2026-03-13T23:08:04.342302", "metrics": {"technical": 9.1, "how-to": 9.3, "conceptual": 8.7, "out-of-scope": 0.4}, "pass_rate": 1.0, "total": 8, "passed": 8}
